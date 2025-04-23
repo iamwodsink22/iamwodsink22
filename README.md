@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Araksha Puri</h1>
 <h3 align="center">Machine Learning Engineer</h3>
+<p>An enthusiastic ML/AI engineer with solid understanding of machine and deep learning algorithms.
+Have also worked on various Frontend projects with Reactjs and bootstrap and backend with FastAPI+PostgreSQL.</p>
 
 - 🌱 I’m currently learning **Langgraph**
 
